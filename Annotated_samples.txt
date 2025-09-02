@@ -1,0 +1,33 @@
+﻿Commit Text
+	Label
+	Plain-Language Annotation
+	Fixed test case for frontend API endpoint
+	QA
+	Fix implied its of QA testing
+	qa: updated test_py to validate api endpoint
+	QA
+	Updating  a tes_api implies QA work
+	Added test data for model training: updated json
+	QA
+	Adding test data helps validate models, making it a QA task.
+	Refactored UI components: implemented responsive design
+	Fullstack
+	This involves both frontend design (UI) and possibly backend integration for responsiveness, so it is Fullstack.
+	Refactor UI component: Implement responsive behavior
+	Frontend
+	This focuses on UI responsiveness and styling, which is a Frontend task.
+	Improved responsive UI for login page with CSS
+	Fullstack
+	Enhancing login UI involves frontend styling and may touch backend logic for login, so it’s Fullstack.
+	Added authentication logic to API server via node
+	Backend
+	This commit adds server-side authentication logic, which is Backend work.
+	Refactor CSS and HTML for responsive modal component
+	Frontend
+	This change is in HTML/CSS, so it belongs to Frontend.
+	Enhance responsive layout and style for navigation bar
+	Frontend
+	Focused on styling and layout, which is Frontend.
+	feat: Implement responsive UI component with API integration
+	Fullstack
+	Combines UI development and API integration, making it Fullstack.
