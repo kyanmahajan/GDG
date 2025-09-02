@@ -7,7 +7,7 @@ This repository is structured to make both preprocessing and modeling highly reu
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/kyanmahajan/GDG.git
 cd <repo-name>
 
 
